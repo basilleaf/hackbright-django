@@ -19,18 +19,18 @@ Things that worked well
 * I learned a lot being a mentor and new coders rock!
 
 
-
 Things that I had questions about
 ---------------------------------
 
-* among other things I need to learn more about the open source doc tools
+* among other things I need to learn more about these open source doc tools
 
-	
+* I agree that unit testing would be better as advanced topic
+
 
 Room for Improvement 
 ---------------------
 
-* Django project tutorial is too verbose for a beginners workshop imo
+* Django project tutorial is too verbose for a beginners live in-person workshop imo
 
 * more food would be good. ie breakfast, snacks.. maybe local companies would sponsor?
 
