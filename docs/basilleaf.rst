@@ -26,6 +26,8 @@ Things that I had questions about
 
 * I agree that unit testing would be better as advanced topic
 
+* I haz no idea what is happening with this branching way of doing a pull request in github.. mysteries! 
+
 
 Room for Improvement 
 ---------------------
